@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bq6NktHQuzI=",
+  "success": true,
+  "projectFilePath": "/home/amrit/Documents/DOTNET/HelloDotnet/HelloDotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/amrit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

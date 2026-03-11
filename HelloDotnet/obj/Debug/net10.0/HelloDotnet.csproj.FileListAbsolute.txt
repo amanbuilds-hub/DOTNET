@@ -1,0 +1,15 @@
+/home/amrit/Documents/DOTNET/HelloDotnet/bin/Debug/net10.0/HelloDotnet
+/home/amrit/Documents/DOTNET/HelloDotnet/bin/Debug/net10.0/HelloDotnet.deps.json
+/home/amrit/Documents/DOTNET/HelloDotnet/bin/Debug/net10.0/HelloDotnet.runtimeconfig.json
+/home/amrit/Documents/DOTNET/HelloDotnet/bin/Debug/net10.0/HelloDotnet.dll
+/home/amrit/Documents/DOTNET/HelloDotnet/bin/Debug/net10.0/HelloDotnet.pdb
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.sourcelink.json
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.dll
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/refint/HelloDotnet.dll
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.pdb
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/HelloDotnet.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/HelloDotnet/obj/Debug/net10.0/ref/HelloDotnet.dll
