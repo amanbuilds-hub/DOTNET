@@ -38,3 +38,58 @@ When you create or clone a project, the included dependencies aren't downloaded 
 
 ### Clean up dependencies
 To remove a package from your project, use the **remove** command, like so: **dotnet remove package <name of dependency>**. This command removes the package from your project's **.csproj** file.
+
+
+### Manage Dependency updates 
+## Upgrade app Dependencies
+- In the DotNetDependencies.csproj file, look at the dependencies. It should look like this code:
+
+XML
+<ItemGroup>
+    <PackageReference Include="Humanizer" Version="2.7.9" />
+</ItemGroup>
+
+- To see installed dependencies, run this command:
+
+.NET CLI
+**dotnet list package**
+
+The command should output the requested version and the final resolved (installed) version.
+
+Output
+Top-level Package      Requested   Resolved
+> Humanizer            2.7.9        2.7.9
+
+- To see what dependencies are outdated, run this command:
+
+.NET CLI
+**dotnet list package --outdated**
+
+The output should look something like the following output. You might get different values in the Latest column.
+
+Output
+Project `DotNetDependencies` has the following updates to its packages
+   [net8.0]:
+   Top-level Package      Requested   Resolved   Latest
+   > Humanizer            2.7.9       2.7.9      2.11.10
+
+- By default, this command checks for the latest stable version. To check for prerelease packages, append --include-prerelease to the previous command:
+
+.NET CLI
+**dotnet list package --outdated --include-prerelease**
+
+- You can, with some level of confidence, update to the Latest version. Doing so ensures the dependencies get the latest features and patches in that major version. To install the latest version, run the following command:
+
+.NET CLI
+**dotnet add package Humanizer**
+
+If you want to upgrade to a specific version of the dependency, you can append the --version parameter and specify the specific version.
+
+.NET CLI
+**dotnet add package Humanizer --version 2.11.10**
+
+Lastly, you can also install the latest prerelease package by appending the --prerelease parameter.
+
+.NET CLI
+**dotnet add package Humanizer --prerelease**
+
