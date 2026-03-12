@@ -1,0 +1,15 @@
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.sourcelink.json
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/bin/Debug/net10.0/MyDemoApp
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/bin/Debug/net10.0/MyDemoApp.deps.json
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/bin/Debug/net10.0/MyDemoApp.runtimeconfig.json
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/bin/Debug/net10.0/MyDemoApp.dll
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/bin/Debug/net10.0/MyDemoApp.pdb
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.dll
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/refint/MyDemoApp.dll
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.pdb
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/MyDemoApp.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/Store_and_retrive_data_using_literal_and_vehicle_in_C#/MyDemoApp/obj/Debug/net10.0/ref/MyDemoApp.dll
