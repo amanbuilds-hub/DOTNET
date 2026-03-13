@@ -1,0 +1,15 @@
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/bin/Debug/net10.0/Escape_Char_Seq
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/bin/Debug/net10.0/Escape_Char_Seq.deps.json
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/bin/Debug/net10.0/Escape_Char_Seq.runtimeconfig.json
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/bin/Debug/net10.0/Escape_Char_Seq.dll
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/bin/Debug/net10.0/Escape_Char_Seq.pdb
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.sourcelink.json
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.dll
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/refint/Escape_Char_Seq.dll
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.pdb
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/Escape_Char_Seq.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/obj/Debug/net10.0/ref/Escape_Char_Seq.dll

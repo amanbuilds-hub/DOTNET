@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9WYl6s7PeKc=",
+  "success": true,
+  "projectFilePath": "/home/amrit/Documents/DOTNET/Perform basic string formating in C#/Escape_Char_Seq/Escape_Char_Seq.csproj",
+  "expectedPackageFiles": [
+    "/home/amrit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
