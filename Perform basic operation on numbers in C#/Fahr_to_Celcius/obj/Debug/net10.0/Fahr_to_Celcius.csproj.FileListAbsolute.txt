@@ -1,0 +1,15 @@
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.sourcelink.json
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/bin/Debug/net10.0/Fahr_to_Celcius
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/bin/Debug/net10.0/Fahr_to_Celcius.deps.json
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/bin/Debug/net10.0/Fahr_to_Celcius.runtimeconfig.json
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/bin/Debug/net10.0/Fahr_to_Celcius.dll
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/bin/Debug/net10.0/Fahr_to_Celcius.pdb
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.dll
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/refint/Fahr_to_Celcius.dll
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.pdb
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/Fahr_to_Celcius.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/obj/Debug/net10.0/ref/Fahr_to_Celcius.dll

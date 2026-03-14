@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fahr_to_Celcius/1.0.0": {
+        "runtime": {
+          "Fahr_to_Celcius.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fahr_to_Celcius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

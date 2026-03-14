@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escape_Char_Seq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd9b6628dcefa95241ff39970b5e191564ee4675")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e388d7b6db871a490557a8182f5f337c6cccf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escape_Char_Seq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escape_Char_Seq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
