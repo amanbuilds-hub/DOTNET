@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloDotnet", "HelloDotnet\HelloDotnet.csproj", "{4F546A8F-2750-F36A-C00F-58B4FBFD9C6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Store_and_retrive_data_using_literal_and_vehicle_in_C#", "Store_and_retrive_data_using_literal_and_vehicle_in_C#", "{3B138EBC-EFE3-E816-01FA-11BCF7D92DD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Perform basic operation on numbers in C#", "Perform basic operation on numbers in C#", "{007C490F-4BA6-BB3E-1F7F-79972AC54A02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Perform basic string formating in C#", "Perform basic string formating in C#", "{01440C17-A92B-1CFD-7E40-AEC8CDB6FB71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDemoApp", "Store_and_retrive_data_using_literal_and_vehicle_in_C#\MyDemoApp\MyDemoApp.csproj", "{360E36C7-AB74-751E-49B8-BE43094BD260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahr_to_Celcius", "Perform basic operation on numbers in C#\Fahr_to_Celcius\Fahr_to_Celcius.csproj", "{6D7FE71E-CB6D-E92D-57F0-40B3219A3762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape_Char_Seq", "Perform basic string formating in C#\Escape_Char_Seq\Escape_Char_Seq.csproj", "{6A0BA402-E559-90C7-F079-F9345F07A807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F546A8F-2750-F36A-C00F-58B4FBFD9C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F546A8F-2750-F36A-C00F-58B4FBFD9C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F546A8F-2750-F36A-C00F-58B4FBFD9C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F546A8F-2750-F36A-C00F-58B4FBFD9C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360E36C7-AB74-751E-49B8-BE43094BD260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360E36C7-AB74-751E-49B8-BE43094BD260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360E36C7-AB74-751E-49B8-BE43094BD260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360E36C7-AB74-751E-49B8-BE43094BD260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7FE71E-CB6D-E92D-57F0-40B3219A3762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7FE71E-CB6D-E92D-57F0-40B3219A3762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7FE71E-CB6D-E92D-57F0-40B3219A3762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7FE71E-CB6D-E92D-57F0-40B3219A3762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0BA402-E559-90C7-F079-F9345F07A807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0BA402-E559-90C7-F079-F9345F07A807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0BA402-E559-90C7-F079-F9345F07A807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0BA402-E559-90C7-F079-F9345F07A807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{360E36C7-AB74-751E-49B8-BE43094BD260} = {3B138EBC-EFE3-E816-01FA-11BCF7D92DD6}
+		{6D7FE71E-CB6D-E92D-57F0-40B3219A3762} = {007C490F-4BA6-BB3E-1F7F-79972AC54A02}
+		{6A0BA402-E559-90C7-F079-F9345F07A807} = {01440C17-A92B-1CFD-7E40-AEC8CDB6FB71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07AE7CF-DC89-41B8-A885-34AE95278D26}
+	EndGlobalSection
+EndGlobal
