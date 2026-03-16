@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "L6iDuUlHcJs=",
+  "dgSpecHash": "qLWx14xe3w0=",
   "success": true,
   "projectFilePath": "/home/amrit/Documents/DOTNET/Perform basic operation on numbers in C#/Fahr_to_Celcius/Fahr_to_Celcius.csproj",
   "expectedPackageFiles": [
-    "/home/amrit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+    "/home/amrit/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
   ],
   "logs": []
 }
