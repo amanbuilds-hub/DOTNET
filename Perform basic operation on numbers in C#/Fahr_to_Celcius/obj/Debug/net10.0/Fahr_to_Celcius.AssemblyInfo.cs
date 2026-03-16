@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fahr_to_Celcius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be8f0e0f2c8d2fbcc745eabd77413a12fbc40c6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d911fbed0f0a56baf05fd02696da371bc8f3f631")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fahr_to_Celcius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fahr_to_Celcius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
