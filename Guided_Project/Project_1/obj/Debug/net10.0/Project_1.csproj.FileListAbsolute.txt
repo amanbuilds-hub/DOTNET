@@ -1,0 +1,14 @@
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/bin/Debug/net10.0/Project_1
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/bin/Debug/net10.0/Project_1.deps.json
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/bin/Debug/net10.0/Project_1.runtimeconfig.json
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/bin/Debug/net10.0/Project_1.dll
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/bin/Debug/net10.0/Project_1.pdb
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.dll
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/refint/Project_1.dll
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.pdb
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/Project_1.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/Guided_Project/Project_1/obj/Debug/net10.0/ref/Project_1.dll
