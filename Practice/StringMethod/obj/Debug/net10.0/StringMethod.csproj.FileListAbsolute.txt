@@ -1,0 +1,14 @@
+/home/amrit/Documents/DOTNET/Practice/StringMethod/bin/Debug/net10.0/StringMethod
+/home/amrit/Documents/DOTNET/Practice/StringMethod/bin/Debug/net10.0/StringMethod.deps.json
+/home/amrit/Documents/DOTNET/Practice/StringMethod/bin/Debug/net10.0/StringMethod.runtimeconfig.json
+/home/amrit/Documents/DOTNET/Practice/StringMethod/bin/Debug/net10.0/StringMethod.dll
+/home/amrit/Documents/DOTNET/Practice/StringMethod/bin/Debug/net10.0/StringMethod.pdb
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.AssemblyInfoInputs.cache
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.AssemblyInfo.cs
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.csproj.CoreCompileInputs.cache
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.dll
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/refint/StringMethod.dll
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.pdb
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/StringMethod.genruntimeconfig.cache
+/home/amrit/Documents/DOTNET/Practice/StringMethod/obj/Debug/net10.0/ref/StringMethod.dll
